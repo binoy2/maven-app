@@ -12,8 +12,8 @@
 </head>
 </head>
 <body>
- <h1 align="center">Caltech Simplilearn May 2021</h1>
-<h1 align="center">Deployed code for tomcat applicaton launch testing!!!!! Binoy</h1>
-<h2 align="center">This is cool huh?!</h2>
+ <h1 align="center">Jenkins pipeline setup that will compile and test a Maven project and deploy it to a Tomcat Server.</h1>
+<h1 align="center">Deployment Completed!!!!! Awesome Binoy</h1>
+<h2 align="center">This is cool stuff!!!!!</h2>
 </body>
 </html>
