@@ -12,7 +12,7 @@
 </head>
 </head>
 <body>
- <h1 align="center">Jenkins pipeline setup that will compile and test a Maven project and deploy it to a Tomcat Server.</h1>
+ <h1 align="center">Jenkins pipeline setup that will compile and deploy it to a Tomcat Server.</h1>
 <h1 align="center">Deployment Completed!!!!! Awesome Binoy</h1>
 <h2 align="center">This is cool stuff!!!!!</h2>
 </body>
